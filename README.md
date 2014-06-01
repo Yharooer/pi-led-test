@@ -1,6 +1,6 @@
 PiLEDTest
 ===========
-A program which tests Charlieplexing with the Raspberry Pi with 4 Pins. It asks the user which LED it should turn on and turns it on.
+A program which tests Charlieplexing with the Raspberry Pi with 4 Pins. It asks the user which LED it should turn on and turns it on. It is the testing program to make sure everything is wired correctly for my <a href="https://github.com/Yharooer/Pi-LED-Clock.git">PiClock project</a>.
   
 ## Setup ##
 There should be two circuits which look like this:  
